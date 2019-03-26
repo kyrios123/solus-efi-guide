@@ -32,7 +32,7 @@ You can now boot the Solus ISO of your choice. If you see a `grub` screen, it me
 
 # Automatic (easy) Installation
 
-If you want to install Solus alongside another already installed operating system, you should have a look at the [EFI system partitions (a.k.a. ESP)](#efi-system-partition-a-k-a--esp) paragraph of the Advanced installation section.
+If you want to install Solus alongside another already installed operating system, you should have a look at the [EFI system partitions (a.k.a. ESP)](#efi-system-partitions-aka-esp) paragraph of the Advanced installation section.
 
 Okay so now you're on the desktop of your choice you can run **Install OS**. If you want to perform an automatic installation, you can click it now and follow the instructions, remove the disk from the drive at the end of the installation and reboot.
 
